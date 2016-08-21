@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tony Hsu</title>
+    <description>I&#39;m Tony Hsu, Ruby on Rails developer from Taipei, Taiwan. This is the place where I note everything I&#39;m learning.
+</description>
+    <link>http://tonyhsu23.github.io/</link>
+    <atom:link href="http://tonyhsu23.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 21 Aug 2016 18:02:57 +0800</pubDate>
+    <lastBuildDate>Sun, 21 Aug 2016 18:02:57 +0800</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+  </channel>
+</rss>
